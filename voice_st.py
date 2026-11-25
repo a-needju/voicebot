@@ -65,7 +65,7 @@ def TTS(response):
 def main():
     # 기본 설정
     st.set_page_config(
-        page_title="민정 프렌드 프로그램",
+        page_title="혜주 프렌드 프로그램",
         layout="wide")
 
     # session state 초기화
